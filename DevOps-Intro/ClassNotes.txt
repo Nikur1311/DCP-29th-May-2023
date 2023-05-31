@@ -28,7 +28,7 @@ Day 1
 				
 			Requirement Analysis
 			Design Docs
-			Coding 
+			Coding/Development
 			Testing
 			Implementation/Deployment
 			Monitoring/Maintain
